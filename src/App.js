@@ -19,7 +19,7 @@ function App() {
       <div id="dhead" className="container">
         <div className="row">
           <div id="dpic">
-            <img src="/images/me_new.jpg" alt=" " class="ppic" />
+            <img src="/images/sai.jpg" alt=" " class="ppic" />
           </div>
           <div id="ddesc">
             <h1> Sai Choapde </h1>
@@ -65,8 +65,8 @@ function App() {
             Learning.
             <br />
             <br />
-            also I was a Department Coordinator for the Institute Innovation
-            Council (IIC) at PCCOE under the guidance of{" "}
+            also I was a <b>Department Coordinator</b> for the Institute
+            Innovation Council (IIC) at PCCOE under the guidance of{" "}
             <a href="https://sites.google.com/view/madhuri-pagale">
               Prof. Madhuri Pagale
             </a>
@@ -74,6 +74,13 @@ function App() {
             <a href="http://www.pccoepune.com/iic-home.php">IIC</a>.
             <br />
             <br />
+            Participated in the <b>National Service Scheme (NSS)</b> , attending
+            <b>the Winter Camp 2023</b> and coordinating{" "}
+            <b>a Blood Donation Camp</b>.
+            <br />
+            <br />
+            <b>Cultural & Decoration Team Lead</b> for the{" "}
+            <b> Youth Conference 2024.</b>
           </div>
         </div>
 
@@ -89,36 +96,40 @@ function App() {
             />
           </div>
           <div className="desc">
-            My PhD was focused on convolutional/recurrent neural networks and
-            their applications in computer vision, natural language processing
-            and their intersection. My adviser was
-            <a href="http://vision.stanford.edu/">Fei-Fei Li</a> at the Stanford
-            Vision Lab and I also had the pleasure to work with
-            <a href="https://ai.stanford.edu/users/koller/">Daphne Koller</a>,
-            <a href="http://www.robotics.stanford.edu/~ang/contact.html">
-              Andrew Ng
-            </a>
-            , <a href="http://robots.stanford.edu/"> Sebastian Thrun</a> and
-            <a href="http://vladlen.info/"> Vladlen Koltun </a> along the way
-            during the first year rotation program.
+            <b>
+              {" "}
+              Research Internship at Universiti Teknologi PETRONAS (UTP),
+              Malaysia.
+            </b>
             <br />
-            <br />I designed and was the primary instructor for the first deep
-            learning class Stanford -
-            <a href="http://cs231n.stanford.edu/">
-              CS 231n: Convolutional Neural Networks for Visual Recognition
-            </a>
-            . The class became one of the largest at Stanford and has grown from
-            150 enrolled in 2015 to 330 students in 2016, and 750 students in
-            2017.
+            <b>Topic</b>: Automated Detection of Diabetic Retinopathy Using
+            Multiscale Residual Attention Network (MSRAN) Focused on developing
+            a deep learning model (MSRAN) to classify diabetic retinopathy
+            stages from retinal images, assisting in early detection to prevent
+            vision loss in diabetic patients.
             <br />
             <br />
-            Along the way I squeezed in 3 internships at (a baby) Google Brain
-            in 2011 working on learning-scale unsupervised learning from videos,
-            then again in Google Research in 2013 working on large-scale
-            supervised learning on YouTube videos, and finally at DeepMind in
-            2015 working on the deep reinforcement learning team.
+            Focused on developing a <b>deep learning model (MSRAN)</b> to
+            classify diabetic retinopathy stages from retinal images, assisting
+            in early detection to prevent vision loss in diabetic patients.
             <br />
             <br />
+            Implemented <b>data preprocessing</b> techniques like CLAHE and
+            median filtering for image enhancement and <b>data augmentation</b>{" "}
+            for balanced training.
+            <br />
+            <br />
+            Achieved <b>81.07% training accuracy</b> and{" "}
+            <b>78.55% testing accuracy</b>, surpassing traditional CNN models.
+            <br />
+            <br />
+            Gained hands-on experience in <b>PyTorch</b>, deep learning, and
+            handling large-scale medical datasets.
+            <br />
+            <br />
+            Overcame challenges related to <b>dataset imbalance,</b>{" "}
+            overfitting, and computational resource constraints, refining my
+            skills in model optimization.
           </div>
         </div>
 
@@ -158,23 +169,18 @@ function App() {
             />
           </div>
           <div className="desc">
-            At Datastack developed the 'Smart Inventory & Sales Management'
-            system, which automated operations and enabled real-time tracking
-            for clients. This system helped streamline business processes and
-            improve efficiency.
+            Developed the <b>' Smart Inventory & Sales Management ' system, </b>
+            automating client operations and enabling real-time tracking, which
+            streamlined processes and improved efficiency.
             <br />
             <br />
-            Additionally, I contributed to the 'Pharma Analytics Platform,'
-            enhancing pharmaceutical data analysis by implementing advanced
-            analytics and reporting tools, thus supporting more effective
-            decision-making in the pharmaceutical industry.
+            Contributed to the <b>' Pharma Analytics Platform '</b>, enhancing
+            pharmaceutical data analysis by implementing advanced analytics and
+            reporting tools, supporting more effective decision-making.
             <br />
             <br />
-            Also,did Udemy course as my training : Completed e-commerce-asp
-            <a href="https://github.com/saichopade/complete-ecommerce-aspnet-mvc-application">
-              {" "}
-              net-mvc-application
-            </a>
+            Completed an <b>Udemy course</b> on{" "}
+            <b>e-commerce ASP.NET MVC application</b> as part of my training.
             <br />
             <br />
           </div>
@@ -192,19 +198,13 @@ function App() {
             />
           </div>
           <div className="desc">
-            completed a 45-day industrial training program at
-            <a href="https://www.sumagoinfotech.com/">
-              {" "}
-              Sumago Infotech Pvt Ltd{" "}
-            </a>
-            , where I focused on web development technologies. This hands-on
-            experience involved building responsive websites using HTML, CSS,
-            JavaScript, and basic frameworks. we solved problem irelated in
-            designing user-friendly and dynamic websites.
+            Completed a <b>45-day industrial training program</b>, focusing on{" "}
+            <b>web development</b> technologies. Developed responsive websites
+            using HTML, CSS, JavaScript, and basic frameworks.
             <br />
             <br />
-            Problem solver award{" "}
-            <a href="https://www.cs.toronto.edu/~hinton/"> ( certificate )</a>
+            Received the <b> "Problem Solver" award</b> for designing
+            user-friendly and dynamic websites.
             <br />
             <br />
           </div>
@@ -218,29 +218,24 @@ function App() {
             <img src="/images/GPM.png" alt="" style={{ maxwidth: "30px" }} />
           </div>
           <div className="desc">
-            Diploma in Computer science at{" "}
+            <b>Diploma in Computer science</b> at{" "}
             <a href="https://gpmalvan.co.in/"> Government Polytecnic Malvan </a>
-            where I was honored to serve as the Girls Representative, I actively
-            contributed to creating an inclusive and supportive environment for
-            female students. I also maintained a consistent academic track
-            record as the all-year, all-semester college topper, demonstrating
-            my dedication to both leadership and academic excellence.{" "}
-            <a href="https://www.cs.toronto.edu/~hinton/">(Trophy)</a>
             <br />
             <br />
-            shortlisted for the position of “Diploma Engineer Trainee” at Larsen
-            & Toubro (L&T), one of the leading companies in the engineering
-            sector. This selection marked a significant milestone in my
-            professional journey, positioning me for a strong start in the
-            industry.
+            <b>Girls Representative</b>, contributing to a supportive
+            environment for female students.
+            <br />
+            <b>All-year, all-semester college topper.</b> <br />
+            <br />
+            Shortlisted for <b>Diploma Engineer Trainee</b> at{" "}
+            <b>Larsen & Toubro (L&T)</b>.
             <br />
             <br />
             Along the way I squeezed in 2 internships at{" "}
             <a href="https://www.datastack.tech/"> Datastack </a>
-            which is a Campus selection as a Software developer- Grade A and
-            also at
+            as a <b>Software developer- Grade A</b> and also at
             <a href="https://www.sumagoinfotech.com/"> Sumago Infotech </a>
-            achived a problem solver certificate.
+            where i achived a <b>problem solver certificate</b> .
             <a href="https://www.cs.toronto.edu/~hinton/">(certificate)</a>
             <br />
             <br />
@@ -264,7 +259,9 @@ function App() {
               {" "}
               Rosary English School Malvan{" "}
             </a>{" "}
-            where preprared and passed CBSE exam highly focused on math.
+            <br />
+            <br />
+            Passed <b>CBSE exams</b> with a focus on <b>mathematics.</b>
             <br />
             <br />
             <br />
@@ -283,22 +280,22 @@ function App() {
             />
           </div>
           <div className="desc">
-            Early education from 1st to 7th grade at
+            Early education at
             <a href="https://www.goldenhorizon-nashik.com/">
-              {" "}
-              Golden Horizon School, Nashik
+              {"  "}
+              Golden Horizon School, Nashik{"  "}
             </a>
-            , where I won a Silver medal as a Bharatnatyam dancer at the
-            National Level in 6th grade.
-            <a href="https://www.cs.toronto.edu/~hinton/"> (certificate) </a>
-            Additionally, I passed three Government Bharatnatyam exams with
-            Distinction.
             <br />
             <br />
-            I served as the Assistant Choreographer for the entire school during
-            the annual gathering.
+            Won a <b>Silver medal</b> for <b>Bharatnatyam</b> at the{" "}
+            <b>National Level</b> and passed three Government Bharatnatyam exams
+            with <b>Distinction</b>.
+            <a href="https://www.cs.toronto.edu/~hinton/"> (certificates) </a>
             <br />
-            All-rounder in under-12 sports.
+            <br />
+            <b>Assistant Choreographer</b> for the school annual gathering.
+            <br />
+            <b>All-rounder in under-12 sports.</b>
             <a href="https://www.cs.toronto.edu/~hinton/">(Trophy)</a>
             <br />
           </div>
